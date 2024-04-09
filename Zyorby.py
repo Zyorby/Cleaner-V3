@@ -1,8 +1,7 @@
 import os
 import ctypes
 import tkinter as tk
-from tkinter import ttk, filedialog, messagebox
-from PIL import Image, ImageTk
+from tkinter import filedialog, messagebox
 import sys
 import shutil
 import webbrowser
